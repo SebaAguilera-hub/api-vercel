@@ -1,0 +1,29 @@
+{
+    "dishes": [
+        {
+            "id": 2,
+            "name": "choripan",
+            "origen": "chile"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "name": "Avatar",
+            "year": "2012",
+            "gender": "accion"
+        },
+        {
+            "id": 2,
+            "name": "Shrek",
+            "year": "2001",
+            "gender": "adventure"
+        },
+        {
+            "id": 3,
+            "name": "star treck",
+            "year": "1990",
+            "gender": "cience"
+        }
+    ]
+}
